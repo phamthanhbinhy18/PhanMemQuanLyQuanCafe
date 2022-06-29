@@ -1,0 +1,12 @@
+C:\Users\DELL\Desktop\MS-20201704\MS-20201704\MS\MS.DTO\bin\Debug\DTO.dll
+C:\Users\DELL\Desktop\MS-20201704\MS-20201704\MS\MS.DTO\bin\Debug\DTO.pdb
+C:\Users\DELL\Desktop\MS-20201704\MS-20201704\MS\MS.DTO\obj\Debug\MS.DTO.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\MS-20201704\MS-20201704\MS\MS.DTO\obj\Debug\MS.DTO.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\MS-20201704\MS-20201704\MS\MS.DTO\obj\Debug\DTO.dll
+C:\Users\DELL\Desktop\MS-20201704\MS-20201704\MS\MS.DTO\obj\Debug\DTO.pdb
+D:\QuanLyCafe\MS\MS.DTO\bin\Debug\DTO.dll
+D:\QuanLyCafe\MS\MS.DTO\bin\Debug\DTO.pdb
+D:\QuanLyCafe\MS\MS.DTO\obj\Debug\MS.DTO.csproj.AssemblyReference.cache
+D:\QuanLyCafe\MS\MS.DTO\obj\Debug\MS.DTO.csproj.CoreCompileInputs.cache
+D:\QuanLyCafe\MS\MS.DTO\obj\Debug\DTO.dll
+D:\QuanLyCafe\MS\MS.DTO\obj\Debug\DTO.pdb

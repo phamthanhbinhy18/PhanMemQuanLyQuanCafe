@@ -1,0 +1,11 @@
+D:\QuanLyCafe\MS\MS.BUS\bin\Release\BUS.dll
+D:\QuanLyCafe\MS\MS.BUS\bin\Release\BUS.pdb
+D:\QuanLyCafe\MS\MS.BUS\bin\Release\DAO.dll
+D:\QuanLyCafe\MS\MS.BUS\bin\Release\DTO.dll
+D:\QuanLyCafe\MS\MS.BUS\bin\Release\DAO.pdb
+D:\QuanLyCafe\MS\MS.BUS\bin\Release\DTO.pdb
+D:\QuanLyCafe\MS\MS.BUS\obj\Release\MS.BUS.csproj.AssemblyReference.cache
+D:\QuanLyCafe\MS\MS.BUS\obj\Release\MS.BUS.csproj.CoreCompileInputs.cache
+D:\QuanLyCafe\MS\MS.BUS\obj\Release\MS.BUS.csproj.CopyComplete
+D:\QuanLyCafe\MS\MS.BUS\obj\Release\BUS.dll
+D:\QuanLyCafe\MS\MS.BUS\obj\Release\BUS.pdb

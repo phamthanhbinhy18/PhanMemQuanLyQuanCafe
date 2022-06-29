@@ -1,0 +1,9 @@
+D:\QuanLyCafe\MS\MS.DAO\bin\Release\DAO.dll
+D:\QuanLyCafe\MS\MS.DAO\bin\Release\DAO.pdb
+D:\QuanLyCafe\MS\MS.DAO\bin\Release\DTO.dll
+D:\QuanLyCafe\MS\MS.DAO\bin\Release\DTO.pdb
+D:\QuanLyCafe\MS\MS.DAO\obj\Release\MS.DAO.csproj.AssemblyReference.cache
+D:\QuanLyCafe\MS\MS.DAO\obj\Release\MS.DAO.csproj.CoreCompileInputs.cache
+D:\QuanLyCafe\MS\MS.DAO\obj\Release\MS.DAO.csproj.CopyComplete
+D:\QuanLyCafe\MS\MS.DAO\obj\Release\DAO.dll
+D:\QuanLyCafe\MS\MS.DAO\obj\Release\DAO.pdb

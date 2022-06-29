@@ -1,0 +1,6 @@
+D:\QuanLyCafe\MS\MS.DTO\bin\Release\DTO.dll
+D:\QuanLyCafe\MS\MS.DTO\bin\Release\DTO.pdb
+D:\QuanLyCafe\MS\MS.DTO\obj\Release\MS.DTO.csproj.AssemblyReference.cache
+D:\QuanLyCafe\MS\MS.DTO\obj\Release\MS.DTO.csproj.CoreCompileInputs.cache
+D:\QuanLyCafe\MS\MS.DTO\obj\Release\DTO.dll
+D:\QuanLyCafe\MS\MS.DTO\obj\Release\DTO.pdb
